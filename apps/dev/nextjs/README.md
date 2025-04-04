@@ -4,3 +4,4 @@ This folder contains a Next.js app using NextAuth.js for local development. See 
 
 [Setting up local environment
 ](https://github.com/nextauthjs/.github/blob/main/CONTRIBUTING.md#setting-up-local-environment)
+Hello World 2
