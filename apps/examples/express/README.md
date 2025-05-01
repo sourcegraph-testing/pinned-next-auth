@@ -61,3 +61,4 @@ And then import it within a top-level file in the application:
 // server.ts
 import "./polyfill.cjs"
 ```
+Hello World
